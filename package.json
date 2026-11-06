@@ -1,0 +1,21 @@
+{ "name": "ubuntu-pro-client-set-apt-proxy-credentials",
+  "version": "1.0.0",
+  "description": "Configure apt to make the Ubuntu Pro client work behind a proxy.",
+  "keywords": [],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/ubuntu-pro-client-set-apt-proxy-credentials/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/ubuntu-pro-client-set-apt-proxy-credentials.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/ubuntu-pro-client-set-apt-proxy-credentials/issues"
+  },
+  "contributors": [],
+
+  "private": true, "license": "ISC",
+
+
+  "engines": { "npm": ">=7.0.0", "bash": ">=5.0.0" }
+}
